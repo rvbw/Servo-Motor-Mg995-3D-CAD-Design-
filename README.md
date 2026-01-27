@@ -14,7 +14,7 @@ The main purpose of this holder is to act as a bridge between the motor and your
 - Export format: Parasolid (.x_t)
 
 ## Onshape Model
-https://cad.onshape.com/documents/9973b01cf40bd34849565411/w/9dd61d5c9538b5675fb44449/e/4fdfbf10e4c3a88cabeff66c?renderMode=0&uiState=6971242dea800bb5ee3a1ed0
+[View the Onshape model](https://cad.onshape.com/documents/9973b01cf40bd34849565411/w/9dd61d5c9538b5675fb44449/e/4fdfbf10e4c3a88cabeff66c?renderMode=0&uiState=6971242dea800bb5ee3a1ed0)
 
 ## Notes
 - Mechanical design only (no electronics)
